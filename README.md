@@ -30,7 +30,7 @@
 
 ## 📬 Connect with Me
 - [LinkedIn] https://www.linkedin.com/in/rahul-jadhav-472824349 
-- [Email]: rjadhav1531@gmail.com  
+- [Email]:rjadhav1531@gmail.com  
 
 ---
 
