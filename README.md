@@ -19,18 +19,18 @@
 1. **E-Commerce Sales Analytics** – Dashboard for sales trends and KPIs.  
    - Tools: Python, Pandas, Matplotlib/Seaborn  
    - Features: Sales reporting, trend analysis, data visualizations  
-   - [https://github.com/rjadhav1531-byte/Diabetes-Prediction-System]  
+   - [https://github.com/rjadhav1531-byte/E-Commerce-Sales-Analytics] 
 
 3. **Diabetes Prediction System** – Machine Learning model predicting diabetes risk.  
    - Tools: Python, Scikit-learn  
    - Features: Data preprocessing, model training, prediction interface  
-   - [https://github.com/rjadhav1531-byte/E-Commerce-Sales-Analytics]  
+   - [https://github.com/rjadhav1531-byte/Diabetes-Prediction-System]
 
 ---
 
 ## 📬 Connect with Me
 - [LinkedIn] https://www.linkedin.com/in/rahul-jadhav-472824349 
-- Email: rjadhav1531@gmail.com  
+- [Email]: rjadhav1531@gmail.com  
 
 ---
 
